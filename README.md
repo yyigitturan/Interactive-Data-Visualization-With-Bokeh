@@ -1,11 +1,27 @@
 # Interactive Data Visualization with Bokeh
 ![Bokeh Logo](b.png)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Bokeh-FF5733.svg?style=for-the-badge" alt="Bokeh" />
+  <img src="https://img.shields.io/badge/Data--Visualization-33FF57.svg?style=for-the-badge" alt="Data Visualization" />
+  <img src="https://img.shields.io/badge/Python-3357FF.svg?style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/📈%20Line%20Plots-FF33A6.svg?style=for-the-badge" alt="Line Plots" />
+  <img src="https://img.shields.io/badge/🔵%20Scatter%20Plots-FFAA33.svg?style=for-the-badge" alt="Scatter Plots" />
+  <img src="https://img.shields.io/badge/🔶%20Hexbin%20Plots-33FFA6.svg?style=for-the-badge" alt="Hexbin Plots" />
+  <img src="https://img.shields.io/badge/🖼️%20Image%20&%20Image%20RGBA%20Plots-5733FF.svg?style=for-the-badge" alt="Image & Image RGBA Plots" />
+  <img src="https://img.shields.io/badge/🔍%20Interactive%20Charts-33A6FF.svg?style=for-the-badge" alt="Interactive Charts" />
+  <img src="https://img.shields.io/badge/📊%20Bokeh%20Datasets-A633FF.svg?style=for-the-badge" alt="Bokeh Datasets" />
+</p>
+
 Welcome to the **Interactive Data Visualization with Bokeh** project! This project showcases a collection of interactive visualizations created using the Bokeh library, which is known for its ability to produce high-quality, interactive plots and dashboards in Python.
 
 ## 📚 Project Overview
 
 This repository contains various examples and tutorials on how to leverage Bokeh to create interactive data visualizations. Bokeh is a powerful library for building visually appealing and interactive plots that are well-suited for data exploration and presentation.
+
+
+
+
 
 ### Features
 
