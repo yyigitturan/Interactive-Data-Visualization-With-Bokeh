@@ -1,4 +1,5 @@
 # Interactive Data Visualization with Bokeh
+![Bokeh Logo](b.png)
 
 Welcome to the **Interactive Data Visualization with Bokeh** project! This project showcases a collection of interactive visualizations created using the Bokeh library, which is known for its ability to produce high-quality, interactive plots and dashboards in Python.
 
