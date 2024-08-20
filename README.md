@@ -47,7 +47,13 @@ pip install bokeh numpy
 # 📂 Cloning the Repository
 You can clone this repository to your local machine using the following command:
 
+
+```bash
 git clone https://github.com/yyigitturan/Interactive-Data-Visualization-With-Bokeh.git
+```
+
+
+
 
 # 🔍 Usage
 After cloning the repository and installing the required libraries, you can explore the various examples and tutorials provided in the project. Each example demonstrates a different aspect of Bokeh's capabilities for creating interactive visualizations.
